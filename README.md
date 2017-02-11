@@ -1,2 +1,10 @@
 # env-set
-auto set env of script
+
+auto  of scripts
+
+**script list**:
+    
+* auto set hexo env
+* auto pull docker images
+
+
